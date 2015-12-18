@@ -7,10 +7,6 @@
 	<META NAME="CREATED" CONTENT="20151218;18014978">
 	<META NAME="CHANGED" CONTENT="20151218;18023456">
 	<STYLE TYPE="text/css">
-	<!--
-		@page { margin: 2cm }
-		P { margin-bottom: 0.21cm }
-	-->
 	</STYLE>
 </HEAD>
 <BODY LANG="fr-FR" DIR="LTR">
